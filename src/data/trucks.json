@@ -1,0 +1,32 @@
+[
+    {
+      "id": 8,
+      "name": "Scania",
+      "model": "S500",
+      "engineCapacity": "500hp",
+      "color": "White",
+      "numberOfBeds": 2,
+      "price": 67900,
+      "imgUrl": "./imgs/truck1.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Daf",
+      "model": "XF106FT 510",
+      "engineCapacity": "510hp",
+      "color": "White",
+      "numberOfBeds": 2,
+      "price": 39999,
+      "imgUrl": "/imgs/truck2.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Man",
+      "model": "TGX 18.440",
+      "engineCapacity": "440hp",
+      "color": "White",
+      "numberOfBeds": 2,
+      "price": 39999,
+      "imgUrl": "/imgs/truck3.jpg"
+    }
+]

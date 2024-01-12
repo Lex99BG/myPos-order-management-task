@@ -1,0 +1,4 @@
+.service-card-img {
+    object-fit: contain;
+    aspect-ratio: 2/1;
+}

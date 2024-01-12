@@ -1,0 +1,13 @@
+.form-contact {
+    position: relative;
+}
+.contact_btn {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-bottom-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+.form-floating textarea {
+    resize: none;
+}

@@ -1,0 +1,47 @@
+  .image-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    gap: 11px;
+    padding: 15px;
+  }
+  
+  .image-box , .image-box-product {
+    flex-grow: 1;
+    height: 300px;
+    background-size: cover;
+    width: 33%;
+  }
+  
+  /* Our Dealership */
+  .image-box:nth-child(1) {
+    background-image: url('../../assets/dealership.jpg');
+    background-position: left;
+  }  
+  .image-box:nth-child(2) {
+    background-image: url('../../assets/dealership.jpg');
+    background-position: center;
+    height: 317px;
+    margin-top: -3px;
+  }  
+  .image-box:nth-child(3) {
+    background-image: url('../../assets/dealership.jpg');
+    background-position: right;
+  }
+
+  /* Our Products */
+  .image-box-product:nth-child(1) {
+    background-image: url('../../assets/dealership2.jpg');
+    background-position: left;
+  }  
+  .image-box-product:nth-child(2) {
+    background-image: url('../../assets/dealership2.jpg');
+    background-position: center;
+    height: 317px;
+    margin-top: -3px;
+  }  
+  .image-box-product:nth-child(3) {
+    background-image: url('../../assets/dealership2.jpg');
+    background-position: right;
+  }

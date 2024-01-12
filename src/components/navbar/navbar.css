@@ -1,0 +1,14 @@
+.navbar-brand {
+    display: flex;
+    align-items: center;
+}
+.navbar-brand .logo_img {
+    width: 90px;
+    height: 50px;
+}
+.navbar-brand span {
+    color: #dc3545;
+}
+.navbar-nav {
+    align-items: center;
+}

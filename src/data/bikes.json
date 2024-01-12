@@ -1,0 +1,29 @@
+[
+    {
+      "id": 5,
+      "name": "Honda",
+      "model": "CBR650R",
+      "engineCapacity": "650cm3",
+      "color": "Red Metalic",
+      "price": 8500,
+      "imgUrl": "./imgs/hondabike.jpg"
+    },
+    {
+      "id": 6,
+      "name": "kawasaki",
+      "model": "Z900",
+      "engineCapacity": "948cm3",
+      "color": "Green Metalic",
+      "price": 7500,
+      "imgUrl": "/imgs/kawasakibike.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Huskvarna",
+      "model": "Te 300",
+      "engineCapacity": "300cm3",
+      "color": "Black",
+      "price": 9000,
+      "imgUrl": "/imgs/huskvarnabike.jpg"
+    }
+]

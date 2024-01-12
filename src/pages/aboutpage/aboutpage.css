@@ -1,0 +1,52 @@
+.googlemap {
+	width: 100%;
+	filter: grayscale(20%) invert(95%);
+	border-radius: 5px;
+}
+.image-wrapper-about {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+    gap: 11px;
+    padding: 15px;
+  }
+  
+  .image-box-about , .image-box-about-services {
+    flex-grow: 1;
+    height: 300px;
+    background-size: cover;
+    width: 33%;
+  }
+  
+  /* Our Story */
+  .image-box-about:nth-child(1) {
+    background-image: url('../../assets/dealership3.jpg');
+    background-position: left;
+  }  
+  .image-box-about:nth-child(2) {
+    background-image: url('../../assets/dealership3.jpg');
+    background-position: center;
+    height: 317px;
+    margin-top: -3px;
+  }  
+  .image-box-about:nth-child(3) {
+    background-image: url('../../assets/dealership3.jpg');
+    background-position: right;
+  }
+
+/* Our Services */
+	.image-box-about-services:nth-child(1) {
+	background-image: url('../../assets/dealership4.jpg');
+	background-position: left;
+	}  
+	.image-box-about-services:nth-child(2) {
+	background-image: url('../../assets/dealership4.jpg');
+	background-position: center;
+	height: 317px;
+	margin-top: -3px;
+	}  
+	.image-box-about-services:nth-child(3) {
+	background-image: url('../../assets/dealership4.jpg');
+	background-position: right;
+}

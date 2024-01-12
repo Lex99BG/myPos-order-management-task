@@ -1,0 +1,29 @@
+[
+    {
+      "id": 11,
+      "name": "VESTA",
+      "model": "LIGHT 23DA",
+      "loadCapacity": "530kg",
+      "numberOfAxles": 2,
+      "price": 1600,
+      "imgUrl": "./imgs/trailer1.jpg"
+    },
+    {
+      "id": 12,
+      "name": "VESTA",
+      "model": "LIGHT 17c",
+      "loadCapacity": "606kg",
+      "numberOfAxles": 1,
+      "price": 1150,
+      "imgUrl": "/imgs/trailer2.jpg"
+    },
+    {
+      "id": 13,
+      "name": "VESTA",
+      "model": "LIGHT 17",
+      "loadCapacity": "606kg",
+      "numberOfAxles": 1,
+      "price": 895,
+      "imgUrl": "/imgs/trailer3.jpg"
+    }
+]

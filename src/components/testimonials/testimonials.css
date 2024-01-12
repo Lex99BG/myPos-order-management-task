@@ -1,0 +1,23 @@
+.gradient-custom {
+  background: linear-gradient(-45deg, #ee5752, #e73c47, #dc3545, #c11929);
+  position: relative;
+  height: 496px;
+  height: auto;
+}
+.gradient-custom {
+  animation: change 3s infinite;
+}
+ol li {
+  list-style: none;
+}
+@keyframes change {
+	0% {
+		background-position: 0 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0 50%;
+	}
+}

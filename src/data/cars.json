@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "name": "Audi",
+      "model": "A8 50 TDI Quattro",
+      "engineCapacity": "3000cm3",
+      "color": "Grey Metalic",
+      "numberOfDoors": "4/5",
+      "carCategory": "Sedan",
+      "price": 45000,
+      "imgUrl": "./imgs/audi.jpg"
+    },
+    {
+      "id": 2,
+      "name": "BMW",
+      "model": "M5 Competition",
+      "engineCapacity": "4400cm3",
+      "color": "Blue Metalic",
+      "numberOfDoors": "4/5",
+      "carCategory": "Sedan",
+      "price": 70000,
+      "imgUrl": "/imgs/bmw.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Mercedes-Benz",
+      "model": "C 400 AMG Line 4matic",
+      "engineCapacity": "3000cm3",
+      "color": "White",
+      "numberOfDoors": "4/5",
+      "carCategory": "Sedan",
+      "price": 34000,
+      "imgUrl": "/imgs/mercedes.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Maserati",
+      "model": "Quattroporte SQ4-4x4-CH",
+      "engineCapacity": "3000cm3",
+      "color": "Dark Grey",
+      "numberOfDoors": "4/5",
+      "carCategory": "Sedan",
+      "price": 35500,
+      "imgUrl": "/imgs/maserati.jpg"
+    }
+]
+
